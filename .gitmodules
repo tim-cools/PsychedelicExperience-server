@@ -1,0 +1,3 @@
+[submodule "src/PsychedelicExperience.Web/Client"]
+	path = src/PsychedelicExperience.Web/Client
+	url = https://github.com/tim-cools/PsychedelicExperience-client.git
